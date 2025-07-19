@@ -237,10 +237,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Lucide React**: For consistent iconography
 - **Web Speech API**: For voice recognition
 
-## 📞 Support
-
-For support, please open an issue in the GitHub repository or contact the development team.
-
----
-
 **Smart Budget Tracker** - Take control of your finances with AI-powered insights! 💰📊 
